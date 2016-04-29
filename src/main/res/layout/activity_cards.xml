@@ -8,11 +8,10 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:gravity="center"
-    tools:context="com.materialdesign.rottenapple.materialdesignmockup.MainActivity">
-
+    tools:context="com.materialdesign.rottenapple.materialdesignmockup.CardsActivity">
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Main Activity"
+        android:text="Cards Activity"
         android:textSize="30dp"/>
 </RelativeLayout>
